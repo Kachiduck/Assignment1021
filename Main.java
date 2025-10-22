@@ -10,11 +10,9 @@ public class Main {
         System.out.println("Your name is " + name);
         
         for (int i = 1; i<=20; i++) {
-            System.out.print(i + " ");
-        
-        }
-        
-        
+             System.out.print(i + " ");     
+        }      
+               
         scanner.close();
     }
 }
